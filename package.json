@@ -1,10 +1,9 @@
 {
   "name": "@excid3/uppy-activestorage-upload",
   "description": "Rails ActiveStorage DirectUpload engine for Uppy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "main": "lib/index.js",
-  "jsnext:main": "src/index.js",
   "types": "types/index.d.ts",
   "keywords": [
     "file uploader",
